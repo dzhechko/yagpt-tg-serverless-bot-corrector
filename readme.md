@@ -1,5 +1,5 @@
 ### Краткая информация
-Telegram-бот на serverless-стеке Yandex Cloud, который использует GPT для вежливой корректировки сообщение пользователей. 
+Telegram-бот на serverless-стеке Yandex Cloud, который использует GPT для вежливой корректировки сообщений пользователей. 
 Реализован с помощью библиотеки [python-telegram-bot](https://docs.python-telegram-bot.org/en/stable/index.html) на Python.
 
 Настройки telegram-бота можно менять по своему усмотрению.
